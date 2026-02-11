@@ -1,0 +1,2 @@
+#define RGBLIGHT_DEFAULT_ON true
+#define ENCODER_DIRECTION_FLIP
